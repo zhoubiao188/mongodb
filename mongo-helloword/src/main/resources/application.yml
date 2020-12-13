@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: mongo-helloword
+# one
+  data:
+    mongodb:
+      uri: mongodb://47.101.43.216:27017/study
+  jpa:
+    show-sql: true
+#  two
+#  data:
+#    mongodb:
+#      port: 27017
+#      database: study
+#      host: 127.0.0.1
