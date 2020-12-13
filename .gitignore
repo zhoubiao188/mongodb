@@ -1,2 +1,9 @@
 .idea
-.DS_Stroe
+.idea
+*.iws
+*.iml
+*.ipr
+mvnw
+mvnw.cmd
+.mvn
+.DS_Store
